@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RangeSearchApp</string>
+    <string name="app_label">Поиск делимых чисел в диапазоне</string>
+    <string name="from_label">Укажите начальную точку:</string>
+    <string name="to_label">Укажите конечную точку:</string>
+    <string name="divider_label">Укажите делитель:</string>
+    <string name="from_hint">От</string>
+    <string name="to_hint">До</string>
+    <string name="divider_hint">Делитель</string>
+    <string name="button">Найти</string>
+    <string name="creator">Николаев Александр Сергеевич</string>
+</resources>
